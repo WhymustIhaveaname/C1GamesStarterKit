@@ -73,7 +73,7 @@
         "iconxScale": 0.5,
         "attackDamageWalker": 16,
         "attackRange": 3.5,
-        "cost1": 4,
+        "cost1": 4
       },
       "attackDamageTower": 0
     },
@@ -96,7 +96,7 @@
       "selfDestructDamageTower": 15,
       "metalForBreach": 1,
       "selfDestructRange": 1.5,
-      "selfDestructStepsRequired": 5,
+      "selfDestructStepsRequired": 5
     },
     {
       "icon": "S3_emp",
@@ -145,14 +145,14 @@
       "shorthand": "RM",
       "icon": "S3_removal",
       "iconxScale": 0.4,
-      "iconyScale": 0.5,
+      "iconyScale": 0.5
     },
     {
       "display": "Upgrade",
       "shorthand": "UP",
       "icon": "S3_upgrade",
       "iconxScale": 0.4,
-      "iconyScale": 0.5,
+      "iconyScale": 0.5
     }
   ],
   "timingAndReplay": {
@@ -180,6 +180,6 @@
     "coresPerRound": 5,
     "startingBits": 5,
     "bitDecayPerRound": 0.25,
-    "startingCores": 40,
+    "startingCores": 40
   }
 }
